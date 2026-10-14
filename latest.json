@@ -2,14 +2,13 @@
   "schema": 1,
   "app_id": "ro.sakalux.kingdoms",
   "channel": "stable",
-  "available": false,
-  "version": "0.1.0",
-  "version_code": 1,
-  "apk_url": null,
-  "sha256": null,
-  "bytes": null,
+  "available": true,
+  "version": "0.1.2",
+  "version_code": 3,
+  "apk_url": "https://raw.githubusercontent.com/SakaLuX/SakaLuX-Kingdoms-Updates/main/SakaLuX-Kingdoms.apk",
+  "sha256": "b63e64b73ad271f945f1b081c1fe31e78a93cda9556f4730ebd328c7eb077299",
+  "bytes": 78145194,
   "notes": [
-    "Update service initializing.",
-    "Stable APK signing and installer integration are pending."
+    "SakaLuX Kingdoms v0.1.2"
   ]
 }
