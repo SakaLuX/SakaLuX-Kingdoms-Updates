@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "app_id": "ro.sakalux.kingdoms",
+  "channel": "stable",
+  "available": false,
+  "version": "0.1.0",
+  "version_code": 1,
+  "apk_url": null,
+  "sha256": null,
+  "bytes": null,
+  "notes": [
+    "Update service initializing.",
+    "Stable APK signing and installer integration are pending."
+  ]
+}
