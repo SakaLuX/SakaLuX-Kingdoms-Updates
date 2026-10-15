@@ -3,12 +3,12 @@
   "app_id": "ro.sakalux.kingdoms",
   "channel": "stable",
   "available": true,
-  "version": "0.11.0",
-  "version_code": 11,
+  "version": "0.14.0",
+  "version_code": 14,
   "apk_url": "https://raw.githubusercontent.com/SakaLuX/SakaLuX-Kingdoms-Updates/main/SakaLuX-Kingdoms.apk",
-  "sha256": "7e767d0821de0a8e04a3a0c049c7d007cd231e5a293a8f898e46668b2e297f2b",
-  "bytes": 78161166,
+  "sha256": "a4a22ac0e62596dd87d5b441f270d1e784c56b451eaba30106da1436c87d5485",
+  "bytes": 78169402,
   "notes": [
-    "SakaLuX Kingdoms v0.11.0"
+    "SakaLuX Kingdoms v0.14.0"
   ]
 }
